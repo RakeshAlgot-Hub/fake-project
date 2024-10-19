@@ -9,3 +9,4 @@ print("palace Main")
 print("soldier1")
 =======
 print("palace")
+print("palace1")
