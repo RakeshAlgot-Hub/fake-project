@@ -1,0 +1,7 @@
+print("first main")
+print("second main")
+print("third main")
+print("fourth main")
+print("fifth main")
+print("sixth main")
+print("seventh main")
