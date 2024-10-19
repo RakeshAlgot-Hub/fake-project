@@ -1,3 +1,5 @@
 print("king")
 print("queen")
 print("prince")
+print("princess")
+print("soldier")
